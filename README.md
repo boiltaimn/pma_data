@@ -70,7 +70,7 @@ Example:
 ```
 
 **/language**: Used to switch languages.
-
+Tip: PM Assistant performs best when using English
 Example: 
 ```bash
 /language Deutsch
