@@ -14,9 +14,8 @@ In the loan application process, after the client submits their loan application
 **/heu <List of Heuristics>**: Utilizes lesser-used GPT heuristics to generate solutions from alternate viewpoints.
 
 Example:
-```bash
-/heu https://raw.githubusercontent.com/boiltaimn/pma_data/main/test_txt.txt
-```
+https://raw.githubusercontent.com/boiltaimn/pma_data/main/test_txt.txt
+
 
 **/imp <number>**: Implements the selected solution, identified by its number.
 
@@ -50,7 +49,7 @@ Example:
 
 **/goto <number i>**: Each round of conversation gets assigned a number. Using this command, you can return to a specific conversation and continue from there. This command enables GPT to forget the conversation that happened after the i-th conversation.
 
-Example:
+Example: # Go to the third conversation and implement the first solution
 ```bash
 /goto 3 
 /imp 1
