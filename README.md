@@ -3,6 +3,7 @@ PM Assistant is structured based on the repository: https://github.com/JushBJJ/M
 
 ## Commands
 
+---
 **/sol [Case]**: Offers solutions for a specific case.
 
 Example:
@@ -11,12 +12,14 @@ Example:
 In the loan application process, after the client submits their loan application, the clerk performs three checks in a random order: identity check, verification, and creditworthiness check. If any of these checks fail, the application is rejected. However, since there is no predefined order for conducting the checks, it leads to an issue of overprocessing.
 ```
 
+---
 **/heu <List of Heuristics>**: Utilizes lesser-used GPT heuristics to generate solutions from alternate viewpoints.
 
 Example:
 https://raw.githubusercontent.com/boiltaimn/pma_data/main/test_txt.txt
 
 
+---
 **/imp <number>**: Implements the selected solution, identified by its number.
 
 Example:
@@ -24,6 +27,7 @@ Example:
 /imp 2
 ```
 
+---
 **/pre <number or solution>**: Predicts the potential outcome of a solution.
 
 Example:
@@ -33,6 +37,7 @@ Example:
 /pre Process Standardization # Predict the result of "Process Standardization"
 ```
 
+---
 **/sug**: Invites GPT to suggest questions based on the current conversation.
 
 Example:
@@ -40,6 +45,7 @@ Example:
 /sug
 ```
 
+---
 **/que <question>**: Presents a question. Questions can also be asked without using the command, but it's recommended to use the command as GPT might occasionally lose its personality without it.
 
 Example:
@@ -47,6 +53,7 @@ Example:
 /que How about adding missing system functionalities for this case?
 ```
 
+---
 **/goto <number i>**: Each round of conversation gets assigned a number. Using this command, you can return to a specific conversation and continue from there. This command enables GPT to forget the conversation that happened after the i-th conversation.
 
 Example: # Go to the third conversation and implement the first solution
@@ -55,6 +62,7 @@ Example: # Go to the third conversation and implement the first solution
 /imp 1
 ```
 
+---
 **/config <configuration>**: Used to set configurations.
 
 Example: 
