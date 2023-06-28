@@ -3,7 +3,7 @@ PM Assistant is structured based on the repository: https://github.com/JushBJJ/M
 
 ## Commands
 
-**/sol <Case>**: Offers solutions for a specific case.
+**/sol [Case]**: Offers solutions for a specific case.
 
 Example:
 ```bash
