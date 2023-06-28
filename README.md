@@ -32,7 +32,11 @@ Example:
 Example:
 ```bash
 /pre # Predict the outcome of the current solution
+```
+```bash
 /pre 2 # Predict the solution with number 2
+```
+```bash
 /pre Process Standardization # Predict the result of "Process Standardization"
 ```
 
