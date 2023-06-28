@@ -2,7 +2,6 @@
 PM Assistant is structured based on the repository: https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/main. Authorization has been obtained from the author of Mr. Ranedeer.
 
 ## Commands
-
 ---
 **/sol [Case]**: Offers solutions for a specific case.
 
