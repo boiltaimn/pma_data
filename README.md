@@ -3,7 +3,7 @@ PM Assistant is structured based on the repository: https://github.com/JushBJJ/M
 
 ## Quick Start Guide
 
-1. Click [this link](https://chat.openai.com/share/a2a47afb-c22f-4291-b752-34f79584a309](https://chat.openai.com/share/76f03aad-d9d2-45a5-88d7-3387366572f6) (**MUST HAVE CHATGPT PLUS**)(Deutsch Version click [hier](https://chat.openai.com/share/76f03aad-d9d2-45a5-88d7-3387366572f6))
+1. Click [this link](https://chat.openai.com/share/76f03aad-d9d2-45a5-88d7-3387366572f6) (**MUST HAVE CHATGPT PLUS**)(Deutsch Version click [hier](https://chat.openai.com/share/76f03aad-d9d2-45a5-88d7-3387366572f6))
 2. Press the "Continue this conversation" button
 3. Configure your preferences
 4. Start analysing
